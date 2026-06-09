@@ -9,3 +9,6 @@ Questions
 4.Create pull request from your branch.
 
 5.Modify any 2 files in your branch, then push them into remote repo and then create pull request form your branch.
+
+Part-B
+1.Host static website using GitHub pages.
