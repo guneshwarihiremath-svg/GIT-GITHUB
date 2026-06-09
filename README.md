@@ -1,6 +1,6 @@
 Questions
 
-1.Clone the given repository
+1.fork the given repository
 
 2.Create a branch in your name.
 
